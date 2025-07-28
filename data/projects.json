@@ -1,0 +1,32 @@
+{
+    "projects":[
+        {
+            "title": "GameGrid",
+            "imageUrl": "https://img.freepik.com/free-photo/view-illuminated-neon-gaming-keyboard-setup-controller_23-2149529367.jpg?semt=ais_hybrid&w=740",
+            "project_url": "https://github.com/Hitvaghela/GameGrid",
+            "description": "A dynamic gaming platform offering multiple browser-based games, user interaction, real-time stats, and seamless gameplay experience.",
+            "tags": [ "Javascript", "nodejs" ]
+        },
+        {
+            "title": "Cervical-cancer-detection",
+            "imageUrl": "https://t3.ftcdn.net/jpg/01/99/08/50/360_F_199085055_PHnnW6fDvptWOHj6mAVtKiXXYZ4yXc0m.jpg",
+            "project_url": "https://github.com/Hitvaghela/cervical-cancer-detection",
+            "description": "Built an ML model for cervical cancer detection with 90%+ accuracy using multiple classifiers and medical data.",
+            "tags": [ "ML", "Python", "Matlab" ]
+        },
+        {
+            "title": "ONLINE_CHATTING_APPLICATION",
+            "imageUrl": "https://media.istockphoto.com/id/1217093906/photo/womens-hand-typing-on-mobile-smartphone-live-chat-chatting-on-application-communication.jpg?s=612x612&w=0&k=20&c=37apRN2rOKxtb2MCDxoIlmi5ImkDkGLwSxYDyC-Ljc0=",
+            "project_url": "https://github.com/Benrobo/e-workflow-client",
+            "description": "Built an online chat application using Java Swing and Socket Programming with real-time messaging and user-friendly interface.",
+            "tags": [ "java", "swing " ]
+        },
+        {
+            "title": "Garbage Management System",
+            "imageUrl": "https://t3.ftcdn.net/jpg/05/73/57/76/360_F_573577614_3xNASp9y2eCUSXstGdXf9sKlW3ZYVyUr.jpg",
+            "project_url": "https://github.com/Hitvaghela/Garbage-management-website",
+            "description": "The Garbage Management Website is a platform for citizens and municipalities to schedule pickups, track waste trucks, and report illegal dumping.",
+            "tags": [ "HTML", "CSS" ]
+        }
+    ]
+}

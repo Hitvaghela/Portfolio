@@ -1,0 +1,18 @@
+{
+    "certificates": [
+        {
+            "title": "AWS Academy Cloud Foundations",
+            "issuer": "AWS Academy",
+            "imageUrl": "https://t4.ftcdn.net/jpg/05/07/66/23/360_F_507662376_BTKmPlIGBvKlRHWKRNeFt7bj7H2SynQm.jpg",
+            "certificate_url": "https://github.com/Hitvaghela/Photos/blob/main/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250723-30-dxna3u.pdf",
+            "description": "Completed the AWS Academy Cloud Foundations program, which covers the fundamental concepts of cloud computing and core AWS services. Gained hands-on experience in using AWS to deploy, manage, and scale secure and reliable applications in the cloud."
+        },
+        {
+            "title": "Smart India Hackathon 2023",
+            "issuer": "Nirma University's E-Cell",
+            "imageUrl": "https://i0.wp.com/opportunitycell.com/wp-content/uploads/2022/03/SIH2.png?fit=327%2C345&ssl=1",
+            "certificate_url": "https://github.com/Hitvaghela/Photos/blob/main/SIH%202023%20Certificate.pdf",
+            "description": "Developed a web-based solution for the Smart India Hackathon 2023, aimed at addressing the problem statement on garbage management."
+        }
+    ]
+} 

@@ -1,0 +1,20 @@
+{
+    "internships": [
+        {
+            "company": "Venom Technologies",
+            "role": "Web developer intern",
+            "imageUrl": "https://thumbs.dreamstime.com/b/iconography-d-computer-science-interconnectedness-networks-quantum-computers-computing-algorithms-359327634.jpg",
+            "internship_url": "https://venomtechnologies.in/",
+            "duration": "May 2025 - June 2025",
+            "description": "Built a full-stack blogging platform using the MERN stack with JWT and Google OAuth authentication, bcrypt hashing, and role-based access. Developed 15+ RESTful APIs with Express.js and middleware for features like blog CRUD, comments, readlists, search, and SEO-friendly slugs.",
+            "projects": [
+                {
+                    "title": "Dashboard Redesign",
+                    "description": "Led the redesign of the analytics dashboard for better usability and performance.",
+                    "project_url": "https://github.com/Hitvaghela/dashboard-redesign"
+                }
+            ],
+            "tags": ["React", "Node.js", "JWT", "Google OAuth", "bcrypt"]
+        }
+    ]
+} 
