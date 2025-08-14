@@ -2,17 +2,13 @@
   "skill": [
     {
       "name": "DSA Problem Solving",
-      "description": "Strong foundation in Data Structures and Algorithms with expertise in competitive programming and problem-solving techniques."
+      "description": "Solved 650+ DSA problems on LeetCode, Codeforces, and HackerRank."
  
     },
     {
       "name": "Web Development",
       "description": "Full-stack web development with modern technologies including React, Node.js, and responsive design principles."
   
-    },
-    {
-      "name": "ML Engineer",
-      "description": "Machine Learning and AI development with expertise in Python, TensorFlow, and building intelligent systems."
     }
   ]
 }

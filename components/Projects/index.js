@@ -64,7 +64,7 @@ function Projects() {
                 </Link>
             </div>
 
-            <div className={`projects w-full h-auto p-3 flex flex-row flex-wrap items-center  mb-[50px]`}>
+            <div className={`projects w-full h-auto p-5 flex flex-row flex-wrap items-center  mb-[50px] ml-5`}>
                 {
                     projects.length > 0 ?
                         projects.slice(0, 6).map((list, i) => {
